@@ -10,7 +10,7 @@ With love and petals,
 Abby
 
 
-Explore the flower by visiting [abdull4haziz.github.io](https://abdull4haziz.github.io/I-ve-got-my-eyes-on-you/) to see it in all its beauty.
+Explore the flower by visiting [techabby.github.io](https://techabby.github.io/Darling-You-Look-Perfect/) to see it in all its beauty.
 
 # License
-Author: [abdull4haziz](https://github.com/abdull4haziz)
+Author: [techabby](https://github.com/techabby)
