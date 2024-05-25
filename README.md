@@ -2,10 +2,15 @@
 
 Welcome to the Beautiful Flower Repository! 🌸
 
-Here, you'll find an enchanting flower to brighten your day and make you happy. While I can't physically give you a flower, I hope this virtual bloom brings some joy to your life.
+# Flower Showcase
+
+Here are some flowers for the most beautiful person on earth. Each bloom is a testament to the wonders of life, capturing the essence of beauty and romance. Let these blossoms brighten your day and fill your heart with joy.
+
+With love and petals,
+Abby
+
 
 Explore the flower by visiting [abdull4haziz.github.io](https://abdull4haziz.github.io/I-ve-got-my-eyes-on-you/) to see it in all its beauty.
 
-Feel free to fork, clone, or contribute to this repository. If you have any flower-related content you'd like to add, contributions are always welcome!
-
+# License
 Author: [abdull4haziz](https://github.com/abdull4haziz)
